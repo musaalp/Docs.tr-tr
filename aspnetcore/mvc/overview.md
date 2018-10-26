@@ -54,7 +54,7 @@ Denetleyicileri, kullanıcı etkileşimi işlemek, modelle çalışan ve sonuç 
 
 ## <a name="what-is-aspnet-core-mvc"></a>ASP.NET Core MVC nedir
 
-ASP.NET Core MVC, bir basit, açık kaynaklı bir ASP.NET Core ile kullanılmak için iyileştirilmiş yüksek düzeyde sınanabilir bir sunu çerçevesidir çerçevedir.
+ASP.NET Core MVC, basit, açık kaynaklı ASP.NET Core ile kullanılmak için iyileştirilmiş yüksek düzeyde sınanabilir bir sunu çerçevesidir çerçevedir.
 
 ASP.NET Core MVC, ilgilenilecek alanların temiz bir biçimde ayrılmasını sağlayan dinamik Web siteleri oluşturmak için desen tabanlı bir yöntem sağlar. İşaretleme üzerinde tam denetim verir, TDD kullanımı kolay geliştirme destekler ve en son web standartlarını kullanır.
 
